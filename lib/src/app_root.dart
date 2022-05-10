@@ -2,7 +2,6 @@ import 'package:bmi_calculator/views/splachScreens/SplashScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import '../bloc/Failuer/bmi_bloc.dart';
 import '../bloc/Failuer/counter_bloc.dart';
 class AppRoot extends StatelessWidget {
   const AppRoot({Key? key}) : super(key: key);
